@@ -24,6 +24,22 @@ A recruiter-facing portfolio for **community strategy, operations, growth, partn
 - `assets/` — real profile and work proof images
 - `.github/workflows/pages.yml` — GitHub Pages deployment
 
+
+
+## Professional playbooks
+
+This repository includes practical portfolio artifacts that show how I operate beyond job titles:
+
+| Playbook | Focus |
+|---|---|
+| [Community Strategy Framework](./playbooks/community-strategy-framework.md) | Acquisition, onboarding, activation, retention, advocacy and health metrics |
+| [KOL & Partnership Framework](./playbooks/kol-partnership-framework.md) | Creator selection, outreach, activation and measurement |
+| [Campaign Activation Framework](./playbooks/campaign-activation-framework.md) | Campaign planning, mobilization, sustain and reporting |
+| [AMA & Live Session Runbook](./playbooks/ama-live-session-runbook.md) | Hosting, moderation, structure and post-event follow-up |
+| [Moderation & Escalation SOP](./playbooks/moderation-escalation-sop.md) | Guidelines, conflict handling, safety and escalation |
+| [Community Metrics Dashboard](./playbooks/community-metrics-dashboard.md) | Growth, activation, engagement, retention, operations and sentiment |
+
+
 ## Contact
 
 - **Email:** adebimpe476@gmail.com
