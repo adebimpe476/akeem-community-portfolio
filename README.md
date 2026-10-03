@@ -26,6 +26,12 @@ A recruiter-facing portfolio for **community strategy, operations, growth, partn
 
 
 
+## Community Operations System
+
+This repository now includes a full **Community Operations System** spanning lifecycle growth, KOLs/partnerships, campaigns, live programming, moderation, analytics and reporting.
+
+**Start here → [COMMUNITY-OPS-SYSTEM.md](./COMMUNITY-OPS-SYSTEM.md)**
+
 ## Professional playbooks
 
 This repository includes practical portfolio artifacts that show how I operate beyond job titles:
